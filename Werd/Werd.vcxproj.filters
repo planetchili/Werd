@@ -23,5 +23,8 @@
     <Text Include="sgb-words.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="20k.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
