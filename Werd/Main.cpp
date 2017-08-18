@@ -80,7 +80,7 @@ int main()
 
 	std::vector<std::string> freq_words;
 	{
-		std::ifstream freq_word_file( "sgb-words.txt" );
+		std::ifstream freq_word_file( "20k.txt" );
 		for( std::string line; std::getline( freq_word_file,line ); )
 		{
 			if( line.empty() )
